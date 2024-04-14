@@ -15,3 +15,32 @@ const BasicDetails = () => {
 };
 
 export default BasicDetails;
+
+// hooks I learned and need to learn
+
+// useState
+
+// useEffect
+// useInsertionEffect
+// useLayoutEffect
+
+// useRef
+// useForwardRef
+
+// useReducer(dispatch)
+// useContext (createContext)
+
+// useMemo
+// useCallback
+
+// useImperativeHandle
+// useId
+// useTransition
+
+// useDebugValue
+// useDeferredValue
+
+// useSyncExternalStore
+
+
+
