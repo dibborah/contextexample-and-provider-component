@@ -1,9 +1,10 @@
 import React from "react";
+import UserProfile from "./UserProfile";
 
 const App = () => {
   return (
     <div>
-      <h1>App</h1>
+      <UserProfile/>
     </div>
   );
 };
